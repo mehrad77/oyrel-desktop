@@ -1,0 +1,23 @@
+{
+  "name": "oyrel-desktop",
+  "version": "0.0.1",
+  "description": "A cross-platform weather application powerd by electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrad77/oyrel-desktop.git"
+  },
+  "author": "Mehrad Rousta <mehrad77@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehrad77/oyrel-desktop/issues"
+  },
+  "homepage": "https://github.com/mehrad77/oyrel-desktop#readme",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
